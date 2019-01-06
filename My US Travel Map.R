@@ -12,7 +12,6 @@ library(RColorBrewer)
 library(dplyr)
 
 # Set working directory
-setwd("C:/Users/wb516241/OneDrive - WBG/Oleksiy Anokhin/My R Work/Shiny apps/App US Travel Map")
 
 # Read csv, which was created specifically for this app
 travel.data <- read.csv("My US Travel Map.csv", header = TRUE) 
