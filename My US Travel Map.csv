@@ -1,0 +1,70 @@
+State,State status,City,City status,lat,long
+Alabama,Drove thru,,,,
+Alaska,Not yet,,,,
+Arizona,Not yet,,,,
+Arkansas,Not yet,,,,
+California,Visited,Los Angeles,Visited,34.05223,-118.24368
+California,Visited,San Francisco,Visited,37.77493,-122.41942
+California,Visited,Rancho Palos Verdes,Visited,33.74446,-118.38702
+California,Visited,Santa Monica,Visited,34.01945,-118.49119
+California,Visited,Beverly Hills,Visited,34.07362,-118.40036
+California,Visited,Santa Barbara,Visited,34.42083,-119.69819
+Colorado,Visited,Boulder,Visited,40.015,-105.2705
+Colorado,Visited,Colorado Springs,Visited,38.8339,-104.8214
+Colorado,Visited,Denver,Visited,39.7392,-104.9903
+Connecticut,Drove thru,,,,
+Delaware,Drove thru,,,,
+Florida,Visited,Cape Coral ,Visited,26.56285,-81.94953
+Florida,Visited,Fort Lauderdale,Visited,26.12244,-80.13732
+Georgia,Lived,Savannah,Visited,32.08354,-81.09983
+Georgia,Lived,Atlanta,Lived,33.749,-84.38798
+Georgia,Lived,Plains,Visited,32.03405,-84.39269
+Georgia,Lived,Macon ,Visited,32.84069,-83.6324
+Hawaii,Not yet,,,,
+Idaho,Not yet,,,,
+Illinois,Visited,Chicago,Visited,41.87811,-87.6298
+Indiana,Visited,Indianapolis,Visited,39.7684,-86.15807
+Iowa,Not yet,,,,
+Kansas,Not yet,,,,
+Kentucky,Drove thru,,,,
+Louisiana,Visited,New Orleans,Visited,29.95107,-90.07153
+Maine,Not yet,,,,
+Maryland,Visited,Baltimore,Visited,39.29038,-76.61219
+Maryland,Visited,Ellicott City,Visited,39.26733,-76.79831
+Massachusetts,Visited,Boston,Visited,42.36008,-71.05888
+Massachusetts,Visited,Cambridge,Visited,42.37362,-71.10973
+Michigan,Not yet,,,,
+Minnesota,Airport,Minneapolis/Saint Paul ,Airport,44.977753,-93.265011
+Mississippi,Drove thru,,,,
+Missouri,Not yet,,,,
+Montana,Not yet,,,,
+Nebraska,Not yet,,,,
+Nevada,Not yet,,,,
+New Hampshire,Not yet,,,,
+New Jersey,Visited,Hillsborough,Visited,40.51063,-74.64725
+New Mexico,Not yet,,,,
+New York,Lived,Syracuse,Lived,43.04812,-76.14742
+New York,Lived,Buffalo,Visited,42.88645,-78.87837
+New York,Lived,Cazenovia,Visited,42.93007,-75.85269
+New York,Lived,Manlius,Visited,43.00201,-75.97686
+New York,Lived,New York City,Visited,40.71278,-74.00594
+New York,Lived,Cortland,Visited,42.60118,-76.18048
+North Carolina,Airport,Charlotte,Airport,35.22709,-80.84313
+North Dakota,Not yet,,,,
+Ohio,Visited,Cincinatti,Visited,39.10312,-84.51202
+Oklahoma,Not yet,,,,
+Oregon,Visited,Portland,Visited,45.52306,-122.67648
+Pennsylvania,Visited,Philadeplhia,Visited,39.95258,-75.16522
+Rhode Island,Not yet,,,,
+South Carolina,Visited,Charleston,Visited,32.7765,-79.9311
+South Dakota,Not yet,,,,
+Tennessee,Visited,Nashville,Visited,36.16266,-86.7816
+Texas,Visited,Austin,Visited,30.26715,-97.74306
+Utah,Not yet,,,,
+Vermont,Not yet,,,,
+Virginia,Visited,,,,
+Washington,Visited,Seattle,Visited,47.60621,-122.33207
+West Virginia,Drove thru,,,,
+Wisconsin,Not yet,,,,
+Wyoming,Not yet,,,,
+District of Columbia,Lived,Washington,Lived,38.90719,-77.03687
