@@ -7,7 +7,7 @@ California,Visited,Los Angeles,Visited,34.05223,-118.24368
 California,Visited,San Francisco,Visited,37.77493,-122.41942
 California,Visited,Rancho Palos Verdes,Visited,33.74446,-118.38702
 California,Visited,Santa Monica,Visited,34.01945,-118.49119
-California,Visited,Beverly Hills,Visited,34.07362,-118.40036
+California,Visited,Beverly Hills,Visited,             ,-118.40036
 California,Visited,Santa Barbara,Visited,34.42083,-119.69819
 Colorado,Visited,Boulder,Visited,40.015,-105.2705
 Colorado,Visited,Colorado Springs,Visited,38.8339,-104.8214
@@ -33,7 +33,7 @@ Maryland,Visited,Baltimore,Visited,39.29038,-76.61219
 Maryland,Visited,Ellicott City,Visited,39.26733,-76.79831
 Massachusetts,Visited,Boston,Visited,42.36008,-71.05888
 Massachusetts,Visited,Cambridge,Visited,42.37362,-71.10973
-Michigan,Not yet,,,,
+Michigan,Airport,Detroit,Airport,44.182205,-84.506836
 Minnesota,Airport,Minneapolis/Saint Paul ,Airport,44.977753,-93.265011
 Mississippi,Drove thru,,,,
 Missouri,Not yet,,,,
