@@ -50,6 +50,6 @@ city_popup <- paste0("<strong>City/town: </strong>",
               #clusterOptions = markerClusterOptions()
               ) %>%
     addLegend("bottomright", pal = pal, values = ~travel.map$State.status, opacity = 1,
-              title = "My Travel Map in the US by State")
+              title = "My US Travel Map by State")
   
   

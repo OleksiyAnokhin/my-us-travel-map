@@ -1,7 +1,7 @@
 State,State status,City,City status,lat,long
 Alabama,Drove thru,,,,
 Alaska,Not yet,,,,
-Arizona,Not yet,,,,
+Arizona,Visited,,,,
 Arkansas,Not yet,,,,
 California,Visited,Los Angeles,Visited,34.05223,-118.24368
 California,Visited,San Francisco,Visited,37.77493,-122.41942
@@ -13,9 +13,16 @@ Colorado,Visited,Boulder,Visited,40.015,-105.2705
 Colorado,Visited,Colorado Springs,Visited,38.8339,-104.8214
 Colorado,Visited,Denver,Visited,39.7392,-104.9903
 Connecticut,Drove thru,,,,
-Delaware,Drove thru,,,,
+Delaware,Visited,Rehoboth Beach,Visited,38.7209,-75.076
 Florida,Visited,Cape Coral ,Visited,26.56285,-81.94953
 Florida,Visited,Fort Myers,Airport,26.640629,-81.872307
+Florida,Visited,Key West,Visited,24.555059,-81.779984
+Florida,Visited,Miami Beach,Visited,25.79065,-80.13005
+Florida,Visited,Sarasota,Visited,27.33643,-82.53065
+Florida,Visited,Crystal River,Visited,28.9025,-82.5926
+Florida,Visited,Tampa,Visited,27.9506,-82.4572
+Florida,Visited,St. Armands,Visited,27.3187,-82.5767
+Florida,Visited,St. Petersburg,Visited,27.7676,-82.6403
 Florida,Visited,Fort Lauderdale,Visited,26.12244,-80.13732
 Georgia,Lived,Savannah,Visited,32.08354,-81.09983
 Georgia,Lived,Atlanta,Lived,33.749,-84.38798
@@ -23,7 +30,7 @@ Georgia,Lived,Plains,Visited,32.03405,-84.39269
 Georgia,Lived,Macon ,Visited,32.84069,-83.6324
 Hawaii,Not yet,,,,
 Idaho,Not yet,,,,
-Illinois,Visited,Chicago,Visited,41.87811,-87.6298
+Illinois,Lived,Chicago,Lived,41.87811,-87.6298
 Indiana,Visited,Indianapolis,Visited,39.7684,-86.15807
 Iowa,Not yet,,,,
 Kansas,Not yet,,,,
@@ -40,7 +47,7 @@ Mississippi,Drove thru,,,,
 Missouri,Not yet,,,,
 Montana,Not yet,,,,
 Nebraska,Not yet,,,,
-Nevada,Not yet,,,,
+Nevada,Visited,Las Vegas,Visited,36.114647,-115.172813
 New Hampshire,Not yet,,,,
 New Jersey,Visited,Hillsborough,Visited,40.51063,-74.64725
 New Mexico,Not yet,,,,
@@ -51,6 +58,7 @@ New York,Lived,Manlius,Visited,43.00201,-75.97686
 New York,Lived,New York City,Visited,40.71278,-74.00594
 New York,Lived,Cortland,Visited,42.60118,-76.18048
 North Carolina,Airport,Charlotte,Airport,35.22709,-80.84313
+North Carolina,Airport,Raleigh,Airport,35.7796,-78.6382
 North Dakota,Not yet,,,,
 Ohio,Visited,Cincinatti,Visited,39.10312,-84.51202
 Oklahoma,Not yet,,,,
