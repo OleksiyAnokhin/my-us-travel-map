@@ -1,4 +1,3 @@
-### The map of US states/cities I visited so far (August 2015 - February 2019)
+### The map of US states/cities I visited so far (August 2015 - August 20120)
 
-![](images/Rplot.png)
-
+![](https://i.ibb.co/YWwDzjk/image.png)
